@@ -1,4 +1,4 @@
-# Navigation Codelab
+# Navigation Codelab (With Additional Advanced Navigation)
 
 A Flutter application demonstrating basic navigation between screens using named routes.
 
@@ -18,3 +18,9 @@ Before running this application, make sure you have the following installed:
 ### Installation
 
 1. Clone this repository:
+   bash
+   `git clone https://github.com/habibiezkrillh/routes---navigation.git`
+
+2. Navigate to the project directory:
+   bash
+   `cd **navigation_codelab**`
