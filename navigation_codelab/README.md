@@ -40,3 +40,7 @@ The application demonstrates a simple navigation flow:
    - The `Go Back` button in the app bar
    - The navigation button (drawer) on the screen
 4. There's a Drawer the function is for navigation to First Screen or even Second Screen
+
+## Why im only use Drawer
+
+Simply because when i try to code for bottom navigation bar it shows some error thing which is not defined
