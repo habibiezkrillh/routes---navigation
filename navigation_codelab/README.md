@@ -38,5 +38,5 @@ The application demonstrates a simple navigation flow:
 2. Users can navigate to the Second Screen using the navigation button
 3. From the Second Screen, users can return to
    - The `Go Back` button in the app bar
-   - The navigation button on the screen
+   - The navigation button (drawer) on the screen
 4. There's a Drawer the function is for navigation to First Screen or even Second Screen
