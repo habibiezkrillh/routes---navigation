@@ -13,7 +13,7 @@ Before running this application, make sure you have the following installed:
 - [Flutter](https://flutter.dev/docs/get-started/install) (Latest stable version)
 - [Dart](https://dart.dev/get-dart)
 - An IDE (VS Code, Android Studio, or IntelliJ)
-- iOS Simulator (for Mac) or Android Emulator
+- Android Emulator (in this task i only use Chrome for running the app, press [`2`] to run from Chrome)
 
 ### Installation
 
@@ -43,4 +43,4 @@ The application demonstrates a simple navigation flow:
 
 ## Why im only use Drawer
 
-Simply because when i try to code for bottom navigation bar it shows some error thing which is not defined
+Simply because when i try to code for bottom navigation bar it and when i run it, the bottom navigation bar is messy. So that's why i only use the Drawer for make it easy navigation to the First Screen or even the Second Screen.
