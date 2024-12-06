@@ -16,7 +16,7 @@ class SecondScreen extends StatelessWidget {
                 color: Colors.blue,
               ),
               child: Text(
-                'Navigation Demo',
+                'Dashboard Screen',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 24,
