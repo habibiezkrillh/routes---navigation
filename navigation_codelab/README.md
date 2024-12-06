@@ -39,3 +39,4 @@ The application demonstrates a simple navigation flow:
 3. From the Second Screen, users can return to
    - The `Go Back` button in the app bar
    - The navigation button on the screen
+4. There's a Drawer the function is for navigation to First Screen or even Second Screen
